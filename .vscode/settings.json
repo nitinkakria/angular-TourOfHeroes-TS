@@ -415,7 +415,7 @@
   /**
    * The font size
    */
-  "editor.fontSize": 17,
+  "editor.fontSize": 20
   /**
    * The line height
    */
